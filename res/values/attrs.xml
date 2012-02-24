@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TintableImageButton">
+        <attr name="tintColorStateList" format="reference" />
+        <attr name="tintUpdateDelay" format="integer" />
+    </declare-styleable>
+</resources>
