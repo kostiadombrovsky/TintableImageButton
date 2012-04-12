@@ -56,6 +56,7 @@ public class TintableButton extends Button
 
         int tint = colorStateList_.getColorForState(getDrawableState(), 0x00000000);
         getBackground().setColorFilter(tint, PorterDuff.Mode.SRC_ATOP);
+        invalidate();
     }
 
     //==================================================================================================================
