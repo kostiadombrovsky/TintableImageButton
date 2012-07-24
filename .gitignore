@@ -1,3 +1,5 @@
 gen/com/kdombrovsky/tintableimagebutton/R.java
 local.properties
 build.xml
+gen/com/kdombrovsky/tintableimagebutton/BuildConfig.java
+gen/com/kdombrovsky/tintableimagebutton/Manifest.java
